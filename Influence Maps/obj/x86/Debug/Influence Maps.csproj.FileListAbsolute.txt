@@ -1,0 +1,18 @@
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\bin\Debug\Influence Maps.exe
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\bin\Debug\Influence Maps.pdb
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence_Maps.Form1.resources
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence_Maps.Properties.Resources.resources
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResGen.read.1.tlog
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResGen.write.1.tlog
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence Maps.exe
+d:\users\jwellington\documents\visual studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence Maps.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence Maps.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence Maps.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\bin\Debug\Influence Maps.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\bin\Debug\Influence Maps.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence_Maps.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\Influence_Maps.Properties.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\Influence Maps\Influence Maps\obj\x86\Debug\ResGen.write.1.tlog
